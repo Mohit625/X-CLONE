@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.border-r-1{
+    border-right-width: 0.8px;
+}
